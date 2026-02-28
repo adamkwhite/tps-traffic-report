@@ -1,0 +1,26 @@
+{
+  "firstName": "YOUR_FIRST_NAME",
+  "lastName": "YOUR_LAST_NAME",
+  "email": "your@email.com",
+  "phone": "4165551234",
+  "gender": "Male",
+  "dob": { "year": "1990", "month": "01-January", "day": "01" },
+
+  "incidentStreetNum": "123",
+  "incidentStreetName": "Example",
+  "incidentStreetType": "Street",
+  "incidentCity": "Toronto",
+  "incidentProvince": "Ontario",
+  "locationType": "Streets, Roads, Highways (bicycle Path, Private Road)",
+  "hasVehicleInfo": false,
+  "ongoingIncident": true,
+
+  "incidentStartHour": "10",
+  "incidentStartMinute": "00",
+  "incidentStartAmPm": "AM",
+  "incidentEndHour": "11",
+  "incidentEndMinute": "00",
+  "incidentEndAmPm": "AM",
+
+  "narrative": "Describe your traffic concern here. Include specific details about the issue, location, and when it typically occurs."
+}

@@ -1,0 +1,4 @@
+node_modules/
+log.txt
+error-*.png
+config.json
